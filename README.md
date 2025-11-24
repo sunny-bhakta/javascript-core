@@ -294,8 +294,11 @@ javascript-core/
 ├── 23-design-patterns/     # Design patterns
 │   ├── design-patterns.js
 │   └── README.md
-└── 24-best-practices/      # Best practices
-    ├── best-practices.js
+├── 24-best-practices/      # Best practices
+│   ├── best-practices.js
+│   └── README.md
+└── 25-interview/           # Interview questions & answers
+    ├── interview-questions.js
     └── README.md
 ```
 
